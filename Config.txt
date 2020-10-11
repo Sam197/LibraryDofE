@@ -1,0 +1,3 @@
+charMaxLength = 100
+maxLoanLength = 10    
+maxBooksPerChild = 1
